@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004228788285",
+    "firebase_url": "https://swagbox-41675.firebaseio.com",
+    "project_id": "swagbox-41675",
+    "storage_bucket": "swagbox-41675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004228788285:android:b5d8bbf2f39ddb55deea54",
+        "android_client_info": {
+          "package_name": "com.skkarrty.charm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004228788285-l9mtdfs55rcfi66m3ormu02304o05g1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skkarrty.charm",
+            "certificate_hash": "6d445017e842215006a1e3e097d728603dcb03f7"
+          }
+        },
+        {
+          "client_id": "1004228788285-ek24th78og53kjrvbk882jf4rmc6le42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyltpbUS7ACaQBu1Odaj50E17xpoMVn9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004228788285-ek24th78og53kjrvbk882jf4rmc6le42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
